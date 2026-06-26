@@ -85,4 +85,4 @@ How is our total customer base distributed geographically across our global terr
 
 
 #Screenshorts/ Demo
-
+Example:  https://github.com/manish1234783/Sales-and-Profitability-Analysis-EXCEL-Project/blob/main/Product%20Analysis%20Report.pn
